@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "NinyaSammy",
-    "password": "",
+    "password": "chalol78",
     "type": "offline"
   },
   "server": {
-    "ip": "dynamic-8.magmanode.com:25995",
+    "ip": "chalol78",
     "port": 25995,
     "version": "",
     "try-creative": false
